@@ -1,0 +1,49 @@
+h1{
+    margin-left: 100px;
+}
+#color-palette {
+    margin-right: 250px;
+    margin-left: 100px;
+}
+.color {
+
+    border: solid black 1px;
+    display: inline-block
+}
+.red {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+}
+.yellow{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+}
+.black{
+    background-color: black;
+    height: 50px;
+    width: 50px;
+}
+.blue{
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+}
+
+#pixel-board{
+    margin-left: 100px;
+    
+}
+
+.pixel{
+    border: solid black 1px;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: white;
+}
+
+#buttonContainer {
+    display: inline-block;
+}
