@@ -1,0 +1,84 @@
+body { background-color: rgb(253, 251, 251);}
+
+#cabecalho { position: fixed;
+top: 0;
+  border: solid rgba(62, 101, 209, 0.685);
+  background-color: rgba(62, 101, 209, 0.685);
+  width: 98%;
+  height: 90px;
+}
+
+h1 { color: yellow;}
+
+#titulo { text-align: center;
+}
+
+#corpo { margin-top: 140px;
+}
+
+#minha_foto { margin-left: 40px;
+  border: solid yellow;
+}
+
+.lado-direito { float: right;
+  height: 300px;
+  border: solid yellow;
+  width: 400px;
+  margin-top: 100px;
+  padding: 5px;
+}
+
+.lado-esquerdo { float: left;
+  border: solid yellow;
+  width: 300px;
+  margin-top: 150px;
+  padding: 5px;
+}
+
+#textos { font-family: fredoka, sans-serif;
+  color: rgb(11, 11, 78);
+  line-height: 25px;
+  font-size: 20px;
+  text-align: center;
+}
+
+#listas { margin-top: 5%;
+  margin-bottom: 5%;
+  width: 100%;
+  text-align: center;
+  font-family: hubballi, serif;
+  font-size: 20px;
+  line-height: 20px;
+}
+
+#listas ol { display: inline-block; color: rgb(11, 11, 78);
+}
+
+#listas ul { display: inline-block;color: rgb(11, 11, 78);
+}
+
+.links { display: block;
+  border: solid yellow;
+  background-color: yellow;
+}
+
+a:visited { color: rgb(11, 11, 78);
+  text-decoration: none;
+}
+
+a:link { color: rgb(11, 11, 78);
+  text-decoration: none;
+}
+
+a:hover { background-color: rgb(253, 251, 251);}
+
+#tabela { margin-left: 55%;
+  color:  rgb(11, 11, 78);
+  margin-bottom: 10px;
+}
+
+#rodape { border: solid rgba(62, 101, 209, 0.685);
+  background-color: rgba(62, 101, 209, 0.685);
+  height: 50px;
+}
+
