@@ -1,0 +1,24 @@
+#header{
+    background-color: rgba(84, 236, 152, 0.137);
+    border: solid rgb(73, 230, 144, 0.753) 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h1, p {
+    color: rgb(6, 61, 6);
+    text-align: center;
+    
+}
+
+.completed{
+text-decoration: line-through solid black;
+}
+
+main {
+    border: solid rgba(73, 230, 144, 0.753) 1px;
+    background-color: rgba(84, 236, 152, 0.137);
+    margin-left: 100px;
+    margin-right: 100px;
+}
