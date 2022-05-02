@@ -1,0 +1,128 @@
+.header {
+    display: flex;
+    background-color: rgb(50, 167, 145);
+    justify-content: space-between;
+    align-items: center;
+}
+  
+  .trybewarts-login {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+  
+  .trybewarts-header-logo {
+    align-self: center;
+    width: 50px;
+}
+  
+  #trybewarts-header-title {
+    display: flex;
+    align-content: center;
+}
+  
+  #mainContainer {
+    display: flex;
+}
+  
+  #evaluation-form {
+    display: flex;
+    width: 675px;
+    flex-flow: column wrap;
+}
+  
+  .trybewarts-login input {
+    width: 250px;
+}
+  
+  .input-name .form-control {
+    width: 350px;
+    margin: 3px;
+}
+  
+  .input-name {
+    display: flex;
+    flex-wrap: nowrap;
+}
+  
+  .input-informations .form-control {
+    width: 350px;
+    margin: 3px;
+}
+  
+  .input-informations .house {
+    width: 50px;
+    margin: 3px;
+    margin-left: 10px;
+    align-self: center;
+}
+  
+  .input-informations .form-select {
+    width: 250px;
+    margin: 3px;
+}
+  
+  .input-informations {
+    display: flex;
+    flex-wrap: nowrap;
+}
+  
+  #mainContainer img {
+    height: 500px;
+    flex-basis: 40%;
+}
+  
+  #trybewarts-forms-logo {
+    margin-top: 80px;
+    height: 250px;
+    width: 50%
+}
+  
+  .family {
+    display: flex;
+    flex-direction: column;
+}
+  
+  .checkbox {
+    display: flex;
+    flex-direction: column;
+}
+  
+  .textarea {
+    width: 500ch;
+    margin: 10px;
+}
+  
+  .textarea .form-control {
+    width: 600px;
+    margin: 5px;
+}
+  
+  .rate {
+    display: flex;
+}
+  
+  #label-family , #label-content , #label-rate , #label-infos {
+    margin: 5px;
+    margin-left: 10px;
+}
+  
+  
+  #submit-btn {
+    width: 100px;
+    margin: 5px;
+    margin-left: 10px;
+}
+  
+  .form-check-input {
+    margin-left: 10px;
+}
+
+  footer {
+    background-color: rgb(50, 167, 145);
+    padding: 30px;
+    text-align: center;
+    color: azure;
+}
+ 
