@@ -131,6 +131,6 @@ function createNewBoard() {
             BoardPixel.appendChild(newPixel)
         }
     }
+    inputt.value = ""
+    addClickColor()
 }
-inputt.value = ""
-addClickColor()
