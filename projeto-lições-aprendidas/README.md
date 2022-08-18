@@ -1,4 +1,4 @@
-Esse foi o primeiro projeto que desenvolvi, sendo possível ver o resultado final pela URL http://127.0.0.1:5500/index.html
+Esse foi o primeiro projeto que desenvolvi, sendo possível ver o resultado final por meio da extensão goLive do VsCode.
 
 Neste projeto foram cumpridos os seguintes requisitos:
 - adicionar uma cor de fundo específica
