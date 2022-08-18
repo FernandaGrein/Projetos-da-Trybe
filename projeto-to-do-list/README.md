@@ -1,5 +1,4 @@
-O objetivo deste projeto foi criar uma lista de tarefa, sendo possível ver o resultado final 
-com a URL http://127.0.0.1:5500/index.html
+O objetivo deste projeto foi criar uma lista de tarefa, sendo possível ver o resultado final por meio da extesão goLive do VsCode.
 
 Neste projeto foram cumpridos os seguintes requisitos:
 - adicionado um header e um título à página
